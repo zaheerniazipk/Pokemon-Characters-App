@@ -1,0 +1,15 @@
+1. install requests package
+2. import requests modules
+3. Ask for user character input -> Ditto
+4. Create a dynamic URL based on step 1
+5. Fetch the data from URL in step 2
+6. Check HTTP Status Code
+7. Get JSON data
+8. Print out Pokemon data in the form of dictionary
+
+
+
+
+
+Poke API URL           : https://pokeapi.co/api/v2/pokemon/
+Characters With Images : https://www.thetoptens.com/pokemon/best-pokemon-character/
